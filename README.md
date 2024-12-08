@@ -8,7 +8,7 @@
 
 ---
 
-### Output Example 1 (detect offline/online users)
+### Output Example (detect offline/online status)
 ![Exam1](./En2.png)
 ![Exam1](./En1.png)
 ![Exam1](./Fa2.png)
